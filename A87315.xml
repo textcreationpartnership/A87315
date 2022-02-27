@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent from the Lords of the Councell in Ireland, to the high court of Parliament here in England assembled. Delivered to the Lords, by the Lord Dungarvan, eldest son to the Earl of Corke, on Tuesday the 15. of March. 1641. Wherein are many passages worthy the readers observation As also the names of those lords who have adventured all their estates, for the defence of the Protestant religion in Ireland.</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87315</idno>
+            <idno type="STC">Wing I423</idno>
+            <idno type="STC">Thomason E140_6</idno>
+            <idno type="STC">ESTC R19896</idno>
+            <idno type="EEBO-CITATION">99860767</idno>
+            <idno type="PROQUEST">99860767</idno>
+            <idno type="VID">112892</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112892)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E140[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent from the Lords of the Councell in Ireland, to the high court of Parliament here in England assembled. Delivered to the Lords, by the Lord Dungarvan, eldest son to the Earl of Corke, on Tuesday the 15. of March. 1641. Wherein are many passages worthy the readers observation As also the names of those lords who have adventured all their estates, for the defence of the Protestant religion in Ireland.</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Paine in Goldsmiths Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cork, Richard Boyle, --  Earl of, 1566-1643 --  Early works to 1800.</term>
+               <term>Protestants --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112892:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <p>A LETTER SENT FROM THE LORDS OF THE Councell in <hi>Ireland,</hi> to the high Court of PARLIAMENT here in <hi>England</hi> aſſembled.</p>
+            <p>Delivered to the Lords, by the Lord <hi>Dungarvan,</hi> eldeſt Son to the Earl of <hi>Corke,</hi> on <hi>Tueſday</hi> the 15. of <hi>March.</hi> 1641.</p>
+            <p>Wherein are many paſſages worthy the Readers obſervation.</p>
+            <p>As alſo the Names of thoſe Lords who have adventured all their eſtates, for the defence of the Proteſtant Religion in IRELAND.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Tho. Paine</hi> in Goldſmiths Alley. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112892:2"/>
+            <!-- PDF PAGE 16 -->
+            <pb n="3" facs="tcp:112892:2"/>
+            <!-- PDF PAGE 16 -->
+            <head>A LETTER FROM THE LORDS OF THE COVNCELL IN IRELAND, to the High Court of <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> here in <hi>England</hi> aſſembled, &amp;c.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He preſent diſtractions and troubles raiſed in this Kingdom by the Re<g ref="char:EOLhyphen"/>bellion of the Catholique partie ſtill increaſing more dangerous and perillous to this Kingdom, inforced us again to apply our addreſſes to the High Court of <hi>Par<g ref="char:EOLhyphen"/>liament</hi> for ſpeedie prevention of the ſame, with great joy and thankfulneſſe, acknowledging the vigilent care and painfull endeavours of the ſame hitherto, to relieve us in our preſent troubles.</p>
+            <p>That your Lordſhips have manifeſtly ſhewed your Noble and affectionate deſires to preſerve
+<pb n="4" facs="tcp:112892:3"/>
+               <!-- PDF PAGE 17 -->
+and defend this Kingdom from utter ruine and deſolation, by your willing and cheerfull con<g ref="char:EOLhyphen"/>currence with the Honorable Houſe of <hi>Commons,</hi> in all their proceedings for our aſſiſtance; and re<g ref="char:EOLhyphen"/>moving the obſtructions and hindrances that have been procured in expediting the ſame by evill and malignant Inſtruments, the Prelaticall faction, in taking away their Votes, and ſitting in <hi>Parliament,</hi> which hitherto we conceive have been much prejudiciall, and of great diſadvan<g ref="char:EOLhyphen"/>tage to our timely aſſiſtance.</p>
+            <p>The Noble Courage and Magnanimitie of the <hi>Parliament,</hi> in wading thorow all troubles and diſtempers of State, hath infuſed into our droop<g ref="char:EOLhyphen"/>ing ſpirits life and vigour, which were readie to faint with deſpaire, but holden up with confi<g ref="char:EOLhyphen"/>dent aſſurance of your tender cares and indul<g ref="char:EOLhyphen"/>gent affections towards us in our miſeries: we received ſtrength and courage, not doubting but at length through Gods mercie and your provi<g ref="char:EOLhyphen"/>dent wiſedoms we ſhould have reliefe and reme<g ref="char:EOLhyphen"/>die againſt our Enemies.</p>
+            <p>We now humbly inform your Lordſhips of the preſent Condition now ſtanding, <hi>viz.</hi> the Countie of Corke is wholly ſubdued by the Re<g ref="char:EOLhyphen"/>bels,
+<pb n="5" facs="tcp:112892:3"/>
+               <!-- PDF PAGE 17 -->
+               <hi>Lemſter, Munſter,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> even at the laſt gaſp of yeelding up themſelves. The Earle of <hi>Corke</hi> hath loſt all his Lands and meanes, and this Kingdome in apparant hazard of utter con<g ref="char:EOLhyphen"/>fuſion and ruine, unleſſe your Wiſdomes pre<g ref="char:EOLhyphen"/>vent it not in time by a ſpeedie ſupply of more men, money, and munition.</p>
+            <p>The Rebells are growne to that height of impudency and boldneſſe, that they give forth in their Declarations, they fight in defence of the honour and prerogatives of their King and Queene. And we are credibly given to under<g ref="char:EOLhyphen"/>ſtand, they have preſumed to ſend a Letter to his Majeſtie, intimating they take Armes onely for the preſervation of his Majeſtie, and his right<g ref="char:EOLhyphen"/>full government over them, his Queene and po<g ref="char:EOLhyphen"/>ſteritie, the defence of their Religion, Lawes, and Liberties, in the exerciſe of the ſame. That they take not Armes, as did the <hi>Scots,</hi> for lucre of gaine, to raiſe their owne fortunes by the ruine of o<g ref="char:EOLhyphen"/>thers, but onely out of Conſcience and dutie to God, and his Maieſtie; which by their inhu<g ref="char:EOLhyphen"/>mane and ſavage behaviours ſince their Re<g ref="char:EOLhyphen"/>bellion, have manifeſted to the contrary.</p>
+            <p>
+               <pb n="6" facs="tcp:112892:4"/>
+               <!-- PDF PAGE 18 -->
+Wee reioyce with great thankfulneſſe, that the Wiſdome and care of your Lordſhips, and the Houſe of Commons, have provided and ſent over for our ayde and aſſiſtance, ſuch wor<g ref="char:EOLhyphen"/>thy and valiant Commanders, by whoſe prow<g ref="char:EOLhyphen"/>eſſe and magnanimitie, many great over-throwes and victorious exployts have been archieved a<g ref="char:EOLhyphen"/>gainſt the Rebells in divers places of this King<g ref="char:EOLhyphen"/>dome, to the great refreſhing and encourage<g ref="char:EOLhyphen"/>ment of the diſtreſſed Proteſtants.</p>
+            <p>Our further deſires therefore are that the High Court of Parliament would be pleaſed to proceed in expediting that effectuall Remedie, to reduce this Kingdome to due obedience to the Crowne of <hi>England,</hi> and the Lawes and Or<g ref="char:EOLhyphen"/>dinances of the States of both Kingdomes, their Deſigne in agitation upon the Propoſi<g ref="char:EOLhyphen"/>tions propounded by the Houſe of Commons, for the ſpeedie raiſing of money for that pur<g ref="char:EOLhyphen"/>poſe, of ſuch perſons willing to be purchaſers, by their moneyes and perſons, of the Lands wonne and obtained by the Rebells and our endeavours, ſhall not be wanting to comply
+<pb n="7" facs="tcp:112892:4"/>
+               <!-- PDF PAGE 18 -->
+with them in the ſame to the loſſe of our lives and fortunes.</p>
+            <closer>
+               <dateline>From His Majeſties Caſtle of <hi>Dublin,</hi> 
+                  <date>March 10. 1641.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Corke.</item>
+                     <item>Loftus.</item>
+                     <item>Ormond.</item>
+                     <item>Ridgway.</item>
+                     <item>Kildare.</item>
+                     <item>Munſter.</item>
+                     <item>Carey.</item>
+                     <item>Courtney, &amp;c.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
